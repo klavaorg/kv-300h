@@ -16,7 +16,7 @@
    id="svg3850"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="layout.svg">
+   sodipodi:docname="layout.png">
   <defs
      id="defs3">
     <linearGradient
@@ -53,10 +53,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="285.96902"
-     inkscape:cy="261.06001"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="0.5"
+     inkscape:cx="525.80016"
+     inkscape:cy="178.64485"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -87,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
