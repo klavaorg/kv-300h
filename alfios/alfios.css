@@ -1,0 +1,32 @@
+
+@font-face {
+    font-family: 'alfios_b';
+    src: url('alfios_b.eot');
+    src: url('alfios_b.eot?#iefix') format('embedded-opentype'),
+         url('alfios_b.woff') format('woff'),
+         url('alfios_b.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'alfios_i';
+    src: url('alfios_i.eot');
+    src: url('alfios_i.eot?#iefix') format('embedded-opentype'),
+         url('alfios_i.woff') format('woff'),
+         url('alfios_i.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'alfios_j';
+    src: url('alfios_j.eot');
+    src: url('alfios_j.eot?#iefix') format('embedded-opentype'),
+         url('alfios_j.woff') format('woff'),
+         url('alfios_j.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'alfios_r';
+    src: url('alfios_r.eot');
+    src: url('alfios_r.eot?#iefix') format('embedded-opentype'),
+         url('alfios_r.woff') format('woff'),
+         url('alfios_r.ttf') format('truetype');
+}
