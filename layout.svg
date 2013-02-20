@@ -66,10 +66,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="914.6821"
-     inkscape:cy="301.96155"
-     inkscape:current-layer="layer7"
+     inkscape:zoom="2"
+     inkscape:cx="545.71539"
+     inkscape:cy="158.36247"
+     inkscape:current-layer="layer8"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -100,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3463,6 +3463,10 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="fj" />
+  <g
+     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="russian"
      style="display:inline">
@@ -4402,27 +4406,15 @@
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Alfios;-inkscape-font-specification:Alfios Bold Italic"
-       x="790.37744"
-       y="317.41141"
+       x="788.37744"
+       y="319.41141"
        id="text3203-1-4-0-7-51-8-25"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3205-5-2-9-3-71-9-36"
-         x="790.37744"
-         y="317.41141"
-         style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Alfios;-inkscape-font-specification:Alfios Bold Italic">й</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Alfios;-inkscape-font-specification:Alfios Bold Italic"
-       x="792.37744"
-       y="347.41141"
-       id="text3203-1-4-0-7-51-8-18"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3205-5-2-9-3-71-9-62"
-         x="792.37744"
-         y="347.41141"
-         style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Alfios;-inkscape-font-specification:Alfios Bold Italic">й</tspan></text>
+         x="788.37744"
+         y="319.41141"
+         style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Alfios;-inkscape-font-specification:Alfios Bold Italic">?</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Alfios;-inkscape-font-specification:Alfios Bold Italic"
@@ -4447,6 +4439,18 @@
          x="872.28564"
          y="204.34222"
          style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Alfios;-inkscape-font-specification:Alfios Bold Italic">]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter6669);font-family:Alfios;-inkscape-font-specification:Alfios Bold Italic"
+       x="790.43738"
+       y="339.3685"
+       id="text3203-1-4-0-7-51-8-25-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3205-5-2-9-3-71-9-36-824"
+         x="790.43738"
+         y="339.3685"
+         style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Alfios;-inkscape-font-specification:Alfios Bold Italic">/</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5574,8 +5578,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="border"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:none;stroke:#000000;stroke-width:2.46169353;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect7434"
